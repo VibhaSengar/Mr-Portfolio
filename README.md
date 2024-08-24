@@ -12,14 +12,12 @@ Creative and detail-oriented professional with a passion for software developmen
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Proficiency              |
+|-----------------------------------------------|--------------------------|
+| C, C++, Python, Java                          |              8/10        |
+| Angular, HTML, CSS, JS                        |              8/10        |
+| SQL, MYSQL, MongoDB, Postman, Dbeaver         |              8/10        |
+| Windows, Linux, Ubuntu                        |              8/10        | 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
