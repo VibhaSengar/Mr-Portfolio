@@ -4,10 +4,10 @@
 </a>
 
 
-Completed 4 years of my Graduation Course in which I have learned various skills and languages such as C, C++, HTML, CSS, SQL, OOPs Concept, Core Java, and IOT which are enhancing my knowledge. I worked at HCL as a Graduate Engineer Trainee where I worked on a project for one year where I learned many skills and technologies i.e. Angular, Core Java, Postman, Docker, Dbeaver, Manual and Automation Testing.
+I am a skilled Software Developer with expertise in programming languages like C, Python, and Java, and a strong background in Cyber Security, IoT, and Cloud Computing. With hands-on experience at HCL Technologies and a Master's degree in Cyber Security from Sapienza University, I am passionate about leveraging technology to solve real-world problems and continuously expanding my technical skills.
 
 ## Objective
-Creative and detail-oriented professional with a passion for designing user-centric solutions and delivering high-quality digital experiences. Seeking opportunities to showcase and further develop my skills in web development and design through impactful projects.
+Creative and detail-oriented professional with a passion for software development, seeking a role where I can contribute my skills to build and improve software applications. Eager to work on meaningful projects and grow my expertise in software development."
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
