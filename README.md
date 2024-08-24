@@ -1,13 +1,11 @@
 # Hello, I'm Vibha Sengar
-<a href="https://linkedin.com](https://www.linkedin.com/in/vibha-sengar-a5ab22193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/vibha-sengar-a5ab22193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/vibha-sengar-a5ab22193)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Completed 4 years of my Graduation Course in which I have learned various skills and languages such as C, C++, HTML, CSS, SQL, OOPs Concept, Core Java, and IOT which are enhancing my knowledge. I worked at HCL as a Graduate Engineer Trainee where I worked on a project for one year where I learned many skills and technologies i.e. Angular, Core Java, Postman, Docker, Dbeaver, Manual and Automation Testing.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Creative and detail-oriented professional with a passion for designing user-centric solutions and delivering high-quality digital experiences. Seeking opportunities to showcase and further develop my skills in web development and design through impactful projects.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
