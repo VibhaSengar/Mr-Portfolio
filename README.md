@@ -1,9 +1,9 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/vibha-sengar-a5ab22193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Completed 4 years of my Graduation Course in which I have learned various skills and languages such as C, C++, HTML, CSS, SQL, OOPs Concept, Core Java, and IOT which are enhancing my knowledge. I worked at HCL as a Graduate Engineer Trainee where I worked on a project for one year where I learned many skills and technologies i.e. Angular, Core Java, Postman, Docker, Dbeaver, Manual and Automation Testing.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
