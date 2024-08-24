@@ -19,6 +19,9 @@ Creative and detail-oriented professional with a passion for software developmen
 | SQL, MYSQL, MongoDB, Postman, Dbeaver         |              8/10        |
 | Windows, Linux, Ubuntu                        |              8/10        | 
 
+## Other Skills
+Docker, Manual and Automation Testing, Cyber Security Red-Teaming Tools like NetCat, Nmap, Hashcat,Machine Learning, IoT, Arduino, Database Management, Natural Language Processing, Speech Recognition, Data Analytics.
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
